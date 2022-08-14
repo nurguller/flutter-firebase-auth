@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815093605620",
+    "project_id": "uniwave-788ba",
+    "storage_bucket": "uniwave-788ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815093605620:android:9c46729d93742fca082aa1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815093605620-8mlc9jl2aespmf6bgvl0i7lf6kettrar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRrS7j3AMsB-kRBUtWKDGBfNbbtfTNzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815093605620-8mlc9jl2aespmf6bgvl0i7lf6kettrar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
